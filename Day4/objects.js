@@ -87,3 +87,4 @@ console.log(person.sayHi());
 
 person.faveSongs=["Iron man", "Killing in the name of"];
 console.log(person.faveSongs);
+
